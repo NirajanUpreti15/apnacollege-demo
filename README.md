@@ -2,4 +2,4 @@
 This is my first repository.
 <br>
 <hr>
-Author:Nirajan Upreti
+<h3 style:color:blue>Author:Nirajan Upreti</h3>
